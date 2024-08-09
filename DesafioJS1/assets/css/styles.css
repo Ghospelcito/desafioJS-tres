@@ -1,0 +1,18 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: rgb(17, 17, 17);
+}
+
+
+.car {
+  width: 400px;
+  height: auto;
+}
+
+.border-red {
+  border: 2px solid rgb(245, 84, 84);
+}
